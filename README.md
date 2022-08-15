@@ -12,8 +12,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [https://github.com/ASH2001prince/-ASH2001prince-Profile-card-component-solution.git]
-- Live Site URL: [https://ash2001prince.github.io/-ASH2001prince-Profile-card-component-solution/]
+- Solution URL: [https://github.com/ASH2001prince/Product-preview-card-component-solution.git]
+- Live Site URL: [https://ash2001prince.github.io/Product-preview-card-component-solution/]
 
 
 
